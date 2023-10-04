@@ -11,5 +11,5 @@ phases:
         -echo Build completed successfully
 artifacts:
   files:
-    - target/order-service.jar
+    - target/awscodepipelinedeployment-0.0.1-SNAPSHOT.jar
   discard-paths: yes
